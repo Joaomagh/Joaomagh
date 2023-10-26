@@ -14,11 +14,11 @@
  
  🔭 I’m currently working on **personal and freelance projects**
  
- 🌱 I’m currently learning **JavaScript, Tailwind, Bootstrap**
+ 🌱 I’m currently learning **JavaScript, Postgree, React and Node.js**
 
- 💬 Ask me about **Node.js, Javascript, Css, ... or anything [here](https://www.linkedin.com/in/joaomagh/)**
+ 💬 Ask me about **Javascript, Css, ... or anything [here](https://www.linkedin.com/in/joaomagh/)**
 
- ⚡ What I like about **Animes like Naruto and One Piece, Peaky Blinders and Vikings are the best series, Soccer and coding too.**
+ ⚡ What I like about **Animes like Naruto and One Piece, Peaky Blinders and Vikings are the best series, Soccer and coding too and learning about financial market**
  
  </div>
  
