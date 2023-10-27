@@ -19,6 +19,8 @@
  💬 Ask me about **Javascript, Css, ... or anything [here](https://www.linkedin.com/in/joaomagh/)**
 
  ⚡ What I like about **Animes like Naruto and One Piece, Peaky Blinders and Vikings are the best series, Soccer and coding too and learning about financial market**
+
+ 🦆 My Hobby **Exercising my muscles 💪 as well as exercising my neuroplasticity 🧠**
  
  </div>
  
