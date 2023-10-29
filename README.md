@@ -46,18 +46,18 @@
 </div>
 
 <br/>
-<hr/>
+<!--<hr/>
 
-<div align="center">
+<!--<div align="center">
   <h2>🐍 just a snake 🐍</h2>
   <br>
-<!-- JOGO DO SNAKE COM MEUS COMMITS DIARIOS. <img src="https://raw.githubusercontent.com/Joaomagh/Joaomagh/output/github-contribution-grid-snake.svg" /> -->
-<img alt="snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<!-- JOGO DO SNAKE COM MEUS COMMITS DIARIOS. <img src="https://raw.githubusercontent.com/Joaomagh/Joaomagh/output/github-contribution-grid-snake.svg" /> 
+<img alt="snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> 
     
   <br/><br/><br/>
 </div>
 
-<hr/>
+<hr/> -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
