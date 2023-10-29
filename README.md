@@ -73,7 +73,7 @@
   <img align="center" height="150" src="https://i.pinimg.com/originals/c4/bd/18/c4bd187f7318c55c1dbf9940977c86ae.gif"  />
 </div>
 
-<br/><br/>
+<br/>
 <hr/>
 
 <h3 align="center">
