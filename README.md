@@ -46,24 +46,24 @@
 </div>
 
 <br/>
-<!--<hr/>
-testing
-<!--<div align="center">
+<hr/>
+
+<div align="center">
   <h2>🐍 just a snake 🐍</h2>
   <br>
-<!-- JOGO DO SNAKE COM MEUS COMMITS DIARIOS. <img src="https://raw.githubusercontent.com/Joaomagh/Joaomagh/output/github-contribution-grid-snake.svg" /> 
-<img alt="snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> 
+JOGO DO SNAKE COM MEUS COMMITS DIARIOS. 
+<img src="https://raw.githubusercontent.com/Joaomagh/Joaomagh/output/github-contribution-grid-snake.svg" /> 
+ 
     
   <br/><br/><br/>
 </div>
 
-<hr/> -->
+<hr/> 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
 <a href="https://github.com/Joaomagh">
-<img height="180em" src="https://streak-stats.demolab.com/?user=Joaomagh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomagh&layout=compact&langs_count=7&theme=react"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaomagh&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <br/>
