@@ -48,17 +48,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 just a snake 🐍</h2>
-  <br>
-<img src="https://github.com/Joaomagh/Joaomagh/blob/output/github-contribution-grid-snake.svg" /> 
- 
-    
-  <br/><br/><br/>
-</div>
-
-<hr/> 
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
