@@ -51,7 +51,6 @@
 <div align="center">
   <h2>🐍 just a snake 🐍</h2>
   <br>
-JOGO DO SNAKE COM MEUS COMMITS DIARIOS. 
 <img src="https://raw.githubusercontent.com/Joaomagh/Joaomagh/output/github-contribution-grid-snake.svg" /> 
  
     
