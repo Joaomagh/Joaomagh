@@ -51,7 +51,7 @@
 <div align="center">
   <h2>🐍 just a snake 🐍</h2>
   <br>
-<img src="https://raw.githubusercontent.com/Joaomagh/Joaomagh/output/github-contribution-grid-snake.svg" /> 
+<img src="https://github.com/Joaomagh/Joaomagh/blob/output/github-contribution-grid-snake.svg" /> 
  
     
   <br/><br/><br/>
