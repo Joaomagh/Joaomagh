@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **personal and freelance project**
+ 🔭 I’m currently working on **personal and freelance projects**
  
  🌱 I’m currently learning **JavaScript, Postgree, React and Node.js**
 
