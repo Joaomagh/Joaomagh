@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">A passionate software developer from Brazil Fortal-ce</h3>
+<h3 align="center">A passionate software developer from Fortal-CE Brazil</h3>
 
 <br/>
 
