@@ -14,13 +14,9 @@
  
  🔭 I’m currently working on **personal and freelance projects**
  
- 🌱 I’m currently learning **PostgreSQL, React and Node.js**
+ 🌱 I’m currently learning **Java and Boostrap**
 
  💬 Ask me about **any language or project  [here](https://www.linkedin.com/in/joaomagh/)**
-
- ⚡ What I like about **Animes like Naruto and One Piece, Peaky Blinders and Vikings are the best series and learning about financial market**
-
- 🦆 My Hobby **Exercising my muscles 💪 as well as exercising my neuroplasticity 🧠♟️**
  
  </div>
  
@@ -42,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,react,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=python,mysql,java,git" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,java,git" /><br>
 </div>
 
 <br/>
@@ -57,15 +53,12 @@
   <br/>
 </div>
 
-<div align="center">
-  <img align="center" height="150" src="https://i.pinimg.com/originals/c4/bd/18/c4bd187f7318c55c1dbf9940977c86ae.gif"  />
-</div>
 
 <br/>
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
