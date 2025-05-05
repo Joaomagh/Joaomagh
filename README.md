@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on **personal and freelance projects**
  
- 🌱 I’m currently learning **Java and Spring**
+ 🌱 I’m currently learning **Java and Springg**
 
  💬 Ask me about **any language or project  [here](https://www.linkedin.com/in/joaomagh/)**
  
