@@ -1,64 +1,63 @@
+# 👨‍💻 About Me
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Joaomagh.Joaomagh" />
+Backend Developer focused on **scalable solutions** and **clean software engineering practices**, using **Java with Spring Boot**. I also work as a fullstack developer with hands-on experience in **ReactJS**, **MySQL**, and external **API integrations**, while applying **agile methodologies** like **Kanban and Scrum** throughout the development process.
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+João+Magalhães!;" style="color: #FF5733;" />
-</h1>
+---
 
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoma&show_icons=true&theme=github_dark&locale=en)
 
-<h3 align="center">A passionate software developer from Fortal-CE Brazil</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoma&layout=compact&theme=github_dark)
 
-<br/>
+## ⚙️ Technologies & Tools
 
-<div align="center">
- 
- 🔭 I’m currently working on **personal and freelance projects**
- 
- 🌱 I’m currently learning **Java and Spring Boot**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%2300c853.svg?style=for-the-badge&logo=trello&logoColor=white)
 
- 💬 Ask me about **any language or project  [here](https://www.linkedin.com/in/joaomagh/)**
- 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:joaomagdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/joaomagh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://joaomaghportfolio.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+**Languages:** Java, JavaScript, HTML, CSS  
+**Frameworks & Libraries:** Spring Boot, React (Hooks, Axios)  
+**Databases:** MySQL  
+**Tools & Platforms:** GitHub, AWS, IntelliJ IDEA
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,git,github,idea" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,javascript,html,css,react,bootstrap" /><br>
-</div>
+---
 
-<br/>
-<hr/>
+### 🚀 Projects
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<a href="https://github.com/Joaomagh">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomagh&layout=compact&langs_count=7&theme=react"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaomagh&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <br/>
-</div>
+- ** [File System Simulator](https://github.com/joaoma/file-system-simulator)**: Java + Data Structures + Logging  
+  Directory and file control with rename/delete operations and user feedback.
 
+- ** [Parallel Algorithm Benchmark](https://github.com/joaoma/parallel-benchmark)**:  
+  Comparative analysis using sequential, multithreaded, and GPU (JOCL) execution.
 
-<br/>
-<hr/>
+- ** [Financial Control System](https://financeiroapp.vercel.app)**:  
+  CRUD for income and expenses | Responsive UI | LocalStorage persistence
 
-<h3 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+---
 
-<br/>
+## 📜 Certifications & Knowledge
+
+- AWS Academy Cloud Foundations  
+- MySQL Fundamentals  
+- Agile Practices (Scrum / Kanban)  
+- ReactJS Fundamentals  
+
+---
+
+## 📫 How to Reach Me
+
+- Email: [joaomagdev@gmail.com]  
+- LinkedIn: [linkedin.com/in/joaomagh](https://linkedin.com/in/joaomagh)  
+- Constantly learning and improving
+
+---
+
+## ⚡ Fun Facts
+
+- I keep personal notes on design patterns, clean code principles, and dev tricks I discover.
+- I enjoy reading technical books like Clean Code, Refactoring, and Algorithms.
+- I like financial markets and chess
