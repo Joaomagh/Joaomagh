@@ -6,7 +6,7 @@ Backend Developer focused on **scalable solutions** and **clean software enginee
 
 ![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomagh&show_icons=true&theme=github_dark&locale=en)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomag&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomagh&layout=compact&theme=github_dark)
 
 ## ⚙️ Technologies & Tools
 
