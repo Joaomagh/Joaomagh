@@ -26,15 +26,15 @@ Backend Developer focused on **scalable solutions** and **clean software enginee
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-- ** [File System Simulator](https://github.com/joaoma/file-system-simulator)**: Java + Data Structures + Logging  
+- [File System Simulator](https://github.com/joaoma/file-system-simulator): Java + Data Structures + Logging  
   Directory and file control with rename/delete operations and user feedback.
 
-- ** [Parallel Algorithm Benchmark](https://github.com/joaoma/parallel-benchmark)**:  
+- [Parallel Algorithm Benchmark](https://github.com/joaoma/parallel-benchmark): Java + Maven
   Comparative analysis using sequential, multithreaded, and GPU (JOCL) execution.
 
-- ** [Financial Control System](https://financeiroapp.vercel.app)**:  
+- [Financial Control System](https://financeiroapp.vercel.app): React + Javascript 
   CRUD for income and expenses | Responsive UI | LocalStorage persistence
 
 ---
