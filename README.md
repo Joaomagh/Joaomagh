@@ -13,7 +13,7 @@ Backend Developer focused on **scalable solutions** and **clean software enginee
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -22,7 +22,7 @@ Backend Developer focused on **scalable solutions** and **clean software enginee
 
 **Languages:** Java, JavaScript, HTML, CSS  
 **Frameworks & Libraries:** Spring Boot, React (Hooks, Axios)  
-**Databases:** MySQL  
+**Databases:** PostgreSQL  
 **Tools & Platforms:** GitHub, AWS, IntelliJ IDEA
 
 ---
