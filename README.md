@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Backend Developer focused on **scalable solutions** and **clean software engineering practices**, using **Java with Spring Boot**. I also work as a fullstack developer with hands-on experience in **ReactJS**, **PostgreeSQL**, and external **API integrations**, while applying **agile methodologies** like **Kanban and Scrum** throughout the development process.
+Backend Developer focused on **scalable solutions** and **clean software engineering practices**, using **Java with Spring Boot**. I also work as a fullstack developer with hands-on experience in **ReactJS**, **MySQL**, and external **API integrations**, while applying **agile methodologies** like **Kanban and Scrum** throughout the development process.
 
 ---
 
