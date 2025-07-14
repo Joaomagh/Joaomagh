@@ -21,7 +21,7 @@ Backend Developer focused on **scalable solutions** and **clean software enginee
 ![Agile](https://img.shields.io/badge/Agile-%2300c853.svg?style=for-the-badge&logo=trello&logoColor=white)
 
 **Languages:** Java, JavaScript, HTML, CSS  
-**Frameworks & Libraries:** Spring Boot, React (Hooks, Axios)  
+**Frameworks & Libraries:** Spring Boot, React
 **Databases:** PostgreSQL  
 **Tools & Platforms:** GitHub, AWS, IntelliJ IDEA
 
