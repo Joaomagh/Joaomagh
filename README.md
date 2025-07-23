@@ -22,7 +22,7 @@ Backend Developer focused on **scalable solutions** and **clean software enginee
 
 **Languages:** Java, JavaScript, HTML, CSS  
 **Frameworks & Libraries:** Spring Boot, React
-**Databases:** PostgreSQL  
+**Databases:** PostgreSQL, MySQL  
 **Tools & Platforms:** GitHub, AWS, IntelliJ IDEA
 
 ---
