@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Backend Developer focused on **scalable solutions** and **clean software engineering practices**, using **Java with Spring Boot**. I also work as a fullstack developer with hands-on experience in **ReactJS**, **MySQL**, and external **API integrations**, while applying **agile methodologies** like **Kanban and Scrum** throughout the development process.
+Backend Developer focused on **scalable solutions** and **clean software engineering practices**, using **Java with Spring Boot**. I also work as a fullstack developer with hands-on experience in **ReactJS**, **NodeJs**, and external **API integrations**, while applying **agile methodologies** like **Kanban and Scrum** throughout the development process.
 
 ---
 
@@ -20,10 +20,10 @@ Backend Developer focused on **scalable solutions** and **clean software enginee
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-%2300c853.svg?style=for-the-badge&logo=trello&logoColor=white)
 
-**Languages:** Java, JavaScript, HTML, CSS  
+**Languages:** Java, JavaScript 
 **Frameworks & Libraries:** Spring Boot, React
-**Databases:** PostgreSQL, MySQL  
-**Tools & Platforms:** GitHub, AWS, IntelliJ IDEA
+**Databases:** MySQL  
+**Tools & Platforms:** GitHub, Vscode, IntelliJ IDEA
 
 ---
 
