@@ -18,12 +18,13 @@ Backend Developer focused on **scalable solutions** and **clean software enginee
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-%2300c853.svg?style=for-the-badge&logo=trello&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Languages:** Java, JavaScript 
 **Frameworks & Libraries:** Spring Boot, React
 **Databases:** MySQL  
-**Tools & Platforms:** GitHub, Vscode, IntelliJ IDEA
+**Tools & Platforms:** Docker, Linux, GitHub, Vscode, IntelliJ IDEA
 
 ---
 
